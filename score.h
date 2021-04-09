@@ -8,7 +8,7 @@
 //	3.function prototypes
 
 #define MAX 30
-
+#define MIN 10
 //we don't use complex data structure in this program
 
 void input_scores(int[]);
